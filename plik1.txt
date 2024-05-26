@@ -20,3 +20,20 @@ Lista numerowana:
 
 **Zadanie 1**  
 Treść zadania.
+
+Link zewnętrzny
+[Onet](https://www.onet.pl)
+
+Link wewnętrzny
+Zobacz [tutaj](plik1.txt) nasz plik
+
+Obrazek
+![tygrys](https://upload.wikimedia.org/wikipedia/commons/
+```python
+# komentarz
+print('Ala ma kota')
+```
+
+```sql
+SELECT imie FROM osoba;
+```
