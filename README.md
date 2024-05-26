@@ -28,7 +28,9 @@ Link wewnętrzny
 Zobacz [tutaj](plik1.txt) nasz plik
 
 Obrazek
-![tygrys](https://upload.wikimedia.org/wikipedia/commons/
+![tygrys](https://upload.wikimedia.org/wikipedia/commons/)
+
+
 ```python
 # komentarz
 print('Ala ma kota')
